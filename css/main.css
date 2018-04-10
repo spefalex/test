@@ -1,0 +1,127 @@
+#panels{
+	margin-top: 10px;
+}
+
+h1{
+	font-family: Algerian;
+	color: whitesmoke;
+}
+
+h3{
+	font-family: Time New Romans;
+}
+
+p{
+	font-family: Arial black;
+}
+
+#panelhead{
+	background-color: grey;
+}
+
+#create-categories{
+	margin-bottom: 10px;
+}
+
+#edit{
+	margin-right: 10px;
+}
+
+#panelAjout{
+	width: 500px;
+	height: 250px;
+	margin-top: 100px;
+	margin-left: 500px;
+}
+
+#panelAjouts{
+	width: 500px;
+	height: 420px;
+	margin-top: 100px;
+	margin-left: 500px;
+}
+
+#panelModif{
+	width: 550px;
+	height: 375px;
+	margin-top: 100px;
+	margin-left: 500px;
+}
+
+#tbl{
+	border: solid 1px white;
+}
+
+#selects{
+	width: 470px;
+	height: 30px;
+	border-radius: 5px;
+}
+
+#selct{
+	width: 320px;
+	height: 30px;
+	border-radius: 5px;
+	font-family: Arial black;
+}
+
+#AjoutFiche{
+	width: 500px;
+	height: 400px;
+	margin-top: 100px;
+	margin-left: 500px;
+}
+
+#panelHeader{
+	background-color: whitesmoke;
+	}
+#panelFooter{
+	background-color: whitesmoke;
+}
+
+#label{
+	font-family: Arial black;
+	margin-right: 5px;
+}
+
+#txt{
+	font-family: Arial black;
+	width: 310px;
+	margin-left: 10px;
+}
+
+#area{
+	font-family: Arial black;
+	margin-left: 10px;
+}
+
+#indexpanel{
+	background-color: whitesmoke;
+	margin-top: 70px;
+	border-radius: 10px;
+	height: 500px;	
+}
+
+#bodypanel{
+	
+}
+
+h2{
+	font-family: Algerian;
+	color: grey;
+	font-size: xx-large;
+}
+
+h4{
+	font-family: Aharoon;
+	font-size: xx-large;
+}
+
+li a{
+	font-family: Arial black;
+	color: black;
+}
+
+li a:active{
+	background-color: grey;
+}
